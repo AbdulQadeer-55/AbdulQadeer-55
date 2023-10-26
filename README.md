@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@the.datascientist](https://medium.com/@the.datascientist)
 
-- 💬 Ask me about **Data Science, Machine Learning, Computer Vision, and Image Processing**
+- 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning, Computer Vision, Image Processing, and Cybersecurity.**
 
 - 📫 How to reach me **itsabdulqadeer.55@gmail.com**
 
