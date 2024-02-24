@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
 
-- 👯 I’m looking to collaborate on [LABLAB AI HACKATHONS](www.lablab.ai)
+- 👯 I’m looking to collaborate on LABLAB AI HACKATHONS
 
 - 📝 I regularly write articles on [https://medium.com/@the.datascientist](https://medium.com/@the.datascientist)
 
