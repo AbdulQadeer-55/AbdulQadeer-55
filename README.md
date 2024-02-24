@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/official_qadeer" target="blank"><img src="https://img.shields.io/twitter/follow/official_qadeer?logo=twitter&style=for-the-badge" alt="official_qadeer" /></a> </p>
 
-- 🔭 I’m currently working on [Prediction-of-Corporate-Bankruptcy](https://github.com/AbdulQadeer-55/Prediction-of-Corporate-Bankruptcy)
+- 🔭 I’m currently working on Portfolio based projects.
 
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
 
-- 👯 I’m looking to collaborate on [Automated Essay Checker](https://github.com/AbdulQadeer-55/Automated-Essay-Scoring-and-Classification)
+- 👯 I’m looking to collaborate on [LABLAB AI HACKATHONS](www.lablab.ai)
 
 - 📝 I regularly write articles on [https://medium.com/@the.datascientist](https://medium.com/@the.datascientist)
 
