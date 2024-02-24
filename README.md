@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFq8E-KXqWetA/profile-displaybackgroundimage-shrink_350_1400/0/1690723607834?e=1698278400&v=beta&t=-xHzt2FcwlhAqomJX_ET8Ci6Gya0S2TBERUmJC9vU3s)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFq8E-KXqWetA/profile-displaybackgroundimage-shrink_350_1400/0/1690723607834?e=1698278400&v=beta&t=-xHzt2FcwlhAqomJX_ET8Ci6Gya0S2TBERUmJC9vU3s)]
 <h1 align="center">Hi 👋, I'm Abdul Qadeer</h1>
 <h3 align="center">Data Scientist and Machine Learning Engineer</h3>
 <img align= "right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
