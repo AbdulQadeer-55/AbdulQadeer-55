@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQFq8E-KXqWetA/profile-displaybackgroundimage-shrink_350_1400/0/1690723607834?e=1698278400&v=beta&t=-xHzt2FcwlhAqomJX_ET8Ci6Gya0S2TBERUmJC9vU3s" alt="Profile Picture" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Abdul Qadeer</h1>
 <h3 align="center">Data Scientist from Pakistan</h3>
 
