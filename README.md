@@ -2,7 +2,8 @@
 <h3 align="center">Data Scientist from Pakistan</h3>
 <br>
 
-<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center"> <img align="center" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ </div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdulqadeer-55&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
