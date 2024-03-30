@@ -1,25 +1,34 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFq8E-KXqWetA/profile-displaybackgroundimage-shrink_350_1400/0/1690723607834?e=1698278400&v=beta&t=-xHzt2FcwlhAqomJX_ET8Ci6Gya0S2TBERUmJC9vU3s)]
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/D4D16AQFq8E-KXqWetA/profile-displaybackgroundimage-shrink_350_1400/0/1690723607834?e=1698278400&v=beta&t=-xHzt2FcwlhAqomJX_ET8Ci6Gya0S2TBERUmJC9vU3s" alt="Profile Picture" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Abdul Qadeer</h1>
 <h3 align="center">Data Scientist from Pakistan</h3>
-<img align= "right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadeer-55&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadeer-55" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulqadeer-55" alt="abdulqadeer-55" /></a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdulqadeer-55&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/official_qadeer" target="blank"><img src="https://img.shields.io/twitter/follow/official_qadeer?logo=twitter&style=for-the-badge" alt="official_qadeer" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulqadeer-55" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/official_qadeer" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/official_qadeer?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on real-world problems.
-
-- 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
-
+- 🌱 I’m currently learning **Deep Learning and Natural Language Processing**.
 - 👯 I’m looking to collaborate on Real World Dataset Projects.
-
-- 📝 I regularly write articles on [https://medium.com/@the.datascientist](https://medium.com/@the.datascientist)
-
-- 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning, Computer Vision, Image Processing, and Cybersecurity.**
-
-- 📫 How to reach me **itsabdulqadeer.55@gmail.com**
+- 📝 I regularly write articles on Medium.
+- 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning, Computer Vision, Image Processing, and Cybersecurity**.
+- 📫 How to reach me: itsabdulqadeer.55@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
